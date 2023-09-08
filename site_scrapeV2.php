@@ -1,5 +1,5 @@
 <?php
-require '../vendor/autoload.php'; // Assicurati che Goutte e Symfony DomCrawler siano installati via Composer
+require '../../vendor/autoload.php'; // Assicurati che Goutte e Symfony DomCrawler siano installati via Composer
 
 use Goutte\Client;
 
